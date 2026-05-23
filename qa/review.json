@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "frames_root": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames",
+  "frames_root": "/private/tmp/sunny-tie-cat-small-frames",
   "errors": [],
   "warnings": [],
   "rows": [
@@ -15,93 +15,93 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/idle/00.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/idle/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 25778,
+          "nontransparent_pixels": 19057,
           "bbox": [
-            14,
-            5,
-            178,
-            203
+            23,
+            17,
+            168,
+            190
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 201
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 1,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/idle/01.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/idle/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 24502,
+          "nontransparent_pixels": 18070,
           "bbox": [
-            18,
-            5,
-            174,
-            203
+            27,
+            17,
+            164,
+            190
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 194
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 2,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/idle/02.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/idle/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 24733,
+          "nontransparent_pixels": 18254,
           "bbox": [
+            26,
             17,
-            5,
-            174,
-            203
+            164,
+            190
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 237
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 3,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/idle/03.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/idle/03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 25323,
+          "nontransparent_pixels": 18713,
           "bbox": [
-            15,
-            5,
-            176,
-            203
+            24,
+            17,
+            166,
+            190
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 263
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 4,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/idle/04.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/idle/04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 24909,
+          "nontransparent_pixels": 18406,
           "bbox": [
-            16,
-            5,
-            175,
-            203
+            25,
+            17,
+            165,
+            190
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 189
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 5,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/idle/05.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/idle/05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 25082,
+          "nontransparent_pixels": 18509,
           "bbox": [
-            16,
-            5,
-            176,
-            203
+            25,
+            17,
+            166,
+            190
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 226
+          "chroma_adjacent_pixels": 0
         }
       ]
     },
@@ -116,123 +116,123 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/running-right/00.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/running-right/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15227,
+          "nontransparent_pixels": 11344,
           "bbox": [
-            5,
-            33,
-            187,
-            175
+            16,
+            41,
+            175,
+            166
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 387
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 1,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/running-right/01.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/running-right/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16345,
+          "nontransparent_pixels": 12211,
           "bbox": [
-            5,
-            29,
-            187,
-            179
+            16,
+            37,
+            175,
+            170
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 427
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 2,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/running-right/02.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/running-right/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 17990,
+          "nontransparent_pixels": 13436,
           "bbox": [
-            5,
-            26,
-            187,
-            182
+            16,
+            35,
+            175,
+            172
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 501
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 3,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/running-right/03.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/running-right/03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15661,
+          "nontransparent_pixels": 11640,
           "bbox": [
-            5,
-            31,
-            187,
-            177
+            16,
+            39,
+            175,
+            168
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 323
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 4,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/running-right/04.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/running-right/04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15715,
+          "nontransparent_pixels": 11736,
           "bbox": [
-            5,
-            31,
-            187,
-            176
+            16,
+            39,
+            175,
+            167
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 405
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 5,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/running-right/05.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/running-right/05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16020,
+          "nontransparent_pixels": 11983,
           "bbox": [
-            5,
-            30,
-            187,
-            178
+            16,
+            38,
+            175,
+            169
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 428
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 6,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/running-right/06.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/running-right/06.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 17276,
+          "nontransparent_pixels": 12887,
           "bbox": [
-            5,
-            27,
-            187,
-            181
+            16,
+            36,
+            175,
+            171
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 432
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 7,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/running-right/07.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/running-right/07.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15836,
+          "nontransparent_pixels": 11807,
           "bbox": [
-            5,
-            26,
-            187,
-            182
+            16,
+            35,
+            175,
+            172
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 328
+          "chroma_adjacent_pixels": 0
         }
       ]
     },
@@ -247,123 +247,123 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/running-left/00.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/running-left/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15227,
+          "nontransparent_pixels": 11344,
           "bbox": [
-            5,
-            33,
-            187,
-            175
+            16,
+            41,
+            175,
+            166
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 387
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 1,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/running-left/01.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/running-left/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16345,
+          "nontransparent_pixels": 12211,
           "bbox": [
-            5,
-            29,
-            187,
-            179
+            16,
+            37,
+            175,
+            170
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 427
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 2,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/running-left/02.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/running-left/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 17990,
+          "nontransparent_pixels": 13436,
           "bbox": [
-            5,
-            26,
-            187,
-            182
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 501
-        },
-        {
-          "index": 3,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/running-left/03.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 16692,
-          "bbox": [
-            5,
-            28,
-            187,
-            180
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 310
-        },
-        {
-          "index": 4,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/running-left/04.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 16967,
-          "bbox": [
-            5,
-            28,
-            187,
-            180
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 408
-        },
-        {
-          "index": 5,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/running-left/05.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 15990,
-          "bbox": [
-            5,
-            30,
-            187,
-            178
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 412
-        },
-        {
-          "index": 6,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/running-left/06.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 15730,
-          "bbox": [
-            5,
-            31,
-            187,
-            177
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 426
-        },
-        {
-          "index": 7,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/running-left/07.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 12324,
-          "bbox": [
-            5,
-            36,
-            187,
+            16,
+            35,
+            175,
             172
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 296
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "/private/tmp/sunny-tie-cat-small-frames/running-left/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12468,
+          "bbox": [
+            16,
+            36,
+            175,
+            171
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "/private/tmp/sunny-tie-cat-small-frames/running-left/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12666,
+          "bbox": [
+            16,
+            36,
+            175,
+            171
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "/private/tmp/sunny-tie-cat-small-frames/running-left/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11932,
+          "bbox": [
+            16,
+            38,
+            175,
+            169
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 6,
+          "file": "/private/tmp/sunny-tie-cat-small-frames/running-left/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11762,
+          "bbox": [
+            16,
+            39,
+            175,
+            168
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 7,
+          "file": "/private/tmp/sunny-tie-cat-small-frames/running-left/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9272,
+          "bbox": [
+            16,
+            43,
+            175,
+            164
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
         }
       ]
     },
@@ -378,63 +378,63 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/waving/00.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/waving/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 22714,
+          "nontransparent_pixels": 16813,
           "bbox": [
-            25,
-            5,
-            167,
-            203
+            33,
+            17,
+            158,
+            190
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 133
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 1,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/waving/01.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/waving/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 23651,
+          "nontransparent_pixels": 17435,
           "bbox": [
-            14,
-            5,
-            178,
-            203
+            23,
+            17,
+            168,
+            190
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 109
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 2,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/waving/02.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/waving/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 23798,
+          "nontransparent_pixels": 17532,
           "bbox": [
-            12,
-            5,
-            179,
-            203
+            22,
+            17,
+            167,
+            190
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 115
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 3,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/waving/03.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/waving/03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 23600,
+          "nontransparent_pixels": 17430,
           "bbox": [
-            23,
-            5,
-            169,
-            203
+            31,
+            17,
+            160,
+            190
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 155
+          "chroma_adjacent_pixels": 0
         }
       ]
     },
@@ -449,78 +449,78 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/jumping/00.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/jumping/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 18211,
+          "nontransparent_pixels": 13601,
           "bbox": [
-            5,
-            35,
-            187,
-            172
+            16,
+            42,
+            175,
+            164
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 191
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 1,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/jumping/01.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/jumping/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 22029,
+          "nontransparent_pixels": 16299,
           "bbox": [
-            5,
-            12,
-            187,
-            196
+            16,
+            23,
+            175,
+            184
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 229
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 2,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/jumping/02.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/jumping/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 23535,
+          "nontransparent_pixels": 17364,
           "bbox": [
-            5,
-            10,
-            187,
-            198
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 261
-        },
-        {
-          "index": 3,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/jumping/03.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 21260,
-          "bbox": [
-            5,
+            16,
             21,
-            187,
+            175,
             186
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 194
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "/private/tmp/sunny-tie-cat-small-frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15774,
+          "bbox": [
+            16,
+            30,
+            175,
+            176
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 4,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/jumping/04.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/jumping/04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 22303,
+          "nontransparent_pixels": 16589,
           "bbox": [
-            5,
-            15,
-            187,
-            192
+            16,
+            25,
+            175,
+            181
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 118
+          "chroma_adjacent_pixels": 0
         }
       ]
     },
@@ -535,123 +535,123 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/failed/00.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/failed/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 23468,
+          "nontransparent_pixels": 17356,
           "bbox": [
-            22,
-            5,
-            169,
-            203
+            30,
+            17,
+            160,
+            190
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 414
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 1,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/failed/01.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/failed/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 25170,
+          "nontransparent_pixels": 18589,
           "bbox": [
-            23,
-            5,
-            168,
-            203
+            31,
+            17,
+            159,
+            190
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 461
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 2,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/failed/02.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/failed/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 21710,
+          "nontransparent_pixels": 16039,
           "bbox": [
-            5,
-            19,
-            187,
-            188
+            16,
+            29,
+            175,
+            177
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 255
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 3,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/failed/03.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/failed/03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 25759,
+          "nontransparent_pixels": 19060,
           "bbox": [
-            5,
-            15,
-            187,
-            192
+            16,
+            25,
+            175,
+            181
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 286
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 4,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/failed/04.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/failed/04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 17918,
+          "nontransparent_pixels": 13327,
           "bbox": [
-            5,
-            43,
-            187,
-            164
+            16,
+            49,
+            175,
+            157
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 150
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 5,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/failed/05.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/failed/05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 24527,
+          "nontransparent_pixels": 18087,
           "bbox": [
-            13,
-            5,
-            179,
-            203
+            24,
+            17,
+            166,
+            190
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 198
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 6,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/failed/06.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/failed/06.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 27689,
+          "nontransparent_pixels": 20463,
           "bbox": [
-            9,
-            5,
-            183,
-            203
+            19,
+            17,
+            172,
+            190
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 332
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 7,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/failed/07.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/failed/07.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 24054,
+          "nontransparent_pixels": 17778,
           "bbox": [
-            21,
-            5,
-            170,
-            203
+            29,
+            17,
+            161,
+            190
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 266
+          "chroma_adjacent_pixels": 0
         }
       ]
     },
@@ -666,93 +666,93 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/waiting/00.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/waiting/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 22730,
+          "nontransparent_pixels": 16785,
           "bbox": [
-            23,
-            5,
-            169,
-            203
+            31,
+            17,
+            160,
+            190
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 143
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 1,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/waiting/01.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/waiting/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 19933,
+          "nontransparent_pixels": 14804,
           "bbox": [
-            31,
-            5,
-            161,
-            203
+            38,
+            17,
+            153,
+            190
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 136
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 2,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/waiting/02.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/waiting/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 20104,
+          "nontransparent_pixels": 14841,
           "bbox": [
-            22,
-            5,
-            170,
-            203
+            30,
+            17,
+            161,
+            190
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 153
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 3,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/waiting/03.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/waiting/03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 22585,
+          "nontransparent_pixels": 16642,
           "bbox": [
-            25,
-            5,
-            167,
-            203
+            33,
+            17,
+            158,
+            190
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 190
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 4,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/waiting/04.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/waiting/04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 22679,
+          "nontransparent_pixels": 16749,
           "bbox": [
-            24,
-            5,
-            168,
-            203
+            32,
+            17,
+            159,
+            190
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 219
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 5,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/waiting/05.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/waiting/05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 20080,
+          "nontransparent_pixels": 14877,
           "bbox": [
-            28,
-            5,
-            164,
-            203
+            35,
+            17,
+            156,
+            190
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 256
+          "chroma_adjacent_pixels": 0
         }
       ]
     },
@@ -767,93 +767,93 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/running/00.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/running/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 24086,
+          "nontransparent_pixels": 17775,
           "bbox": [
-            18,
-            5,
-            173,
-            203
+            27,
+            17,
+            163,
+            190
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 198
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 1,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/running/01.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/running/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 23939,
+          "nontransparent_pixels": 17705,
           "bbox": [
-            19,
-            5,
-            173,
-            203
+            28,
+            17,
+            163,
+            190
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 177
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 2,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/running/02.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/running/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 24216,
+          "nontransparent_pixels": 17892,
           "bbox": [
-            18,
-            5,
-            174,
-            203
+            27,
+            17,
+            164,
+            190
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 132
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 3,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/running/03.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/running/03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 24133,
+          "nontransparent_pixels": 17882,
           "bbox": [
-            18,
-            5,
-            173,
-            203
+            27,
+            17,
+            163,
+            190
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 201
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 4,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/running/04.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/running/04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 23925,
+          "nontransparent_pixels": 17693,
           "bbox": [
-            19,
-            5,
-            173,
-            203
+            28,
+            17,
+            163,
+            190
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 148
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 5,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/running/05.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/running/05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 23890,
+          "nontransparent_pixels": 17642,
           "bbox": [
-            19,
-            5,
-            172,
-            203
+            28,
+            17,
+            161,
+            190
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 239
+          "chroma_adjacent_pixels": 0
         }
       ]
     },
@@ -868,93 +868,93 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/review/00.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/review/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 25303,
+          "nontransparent_pixels": 18765,
           "bbox": [
-            15,
-            5,
-            177,
-            203
+            24,
+            17,
+            167,
+            190
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 195
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 1,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/review/01.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/review/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 23324,
+          "nontransparent_pixels": 17212,
           "bbox": [
-            20,
-            5,
-            172,
-            203
+            30,
+            17,
+            161,
+            190
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 200
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 2,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/review/02.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/review/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 19633,
+          "nontransparent_pixels": 14474,
           "bbox": [
-            5,
-            27,
-            187,
-            181
+            16,
+            37,
+            175,
+            170
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 140
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 3,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/review/03.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/review/03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 21725,
+          "nontransparent_pixels": 16084,
           "bbox": [
-            5,
-            23,
-            187,
-            185
+            16,
+            32,
+            175,
+            175
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 188
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 4,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/review/04.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/review/04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 19792,
+          "nontransparent_pixels": 14692,
           "bbox": [
-            5,
-            28,
-            187,
-            180
+            16,
+            36,
+            175,
+            171
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 197
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 5,
-          "file": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/frames/review/05.png",
+          "file": "/private/tmp/sunny-tie-cat-small-frames/review/05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 23891,
+          "nontransparent_pixels": 17551,
           "bbox": [
-            13,
-            5,
-            179,
-            203
+            25,
+            17,
+            166,
+            190
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 235
+          "chroma_adjacent_pixels": 0
         }
       ]
     }
