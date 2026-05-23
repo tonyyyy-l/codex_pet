@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "run_dir": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run",
+  "spritesheet": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/final/spritesheet.webp",
+  "validation": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/final/validation.json",
+  "contact_sheet": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/qa/contact-sheet.png",
+  "review": "/Users/tonylin/Documents/Codex/2026-05-21/create-a-pet-based-on-a/sunny-tie-cat-run/qa/review.json",
+  "package": "/Users/tonylin/Documents/Codex/pet/sunny-tie-cat"
+}
