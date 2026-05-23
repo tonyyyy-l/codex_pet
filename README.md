@@ -1,4 +1,4 @@
-# Sunny Tie Cat
+# White Cat
 
 A warm retro white desktop cat with pale apricot ears, a tiny warm brown nose, and a small black bow-tie collar mark.
 
@@ -10,7 +10,7 @@ A warm retro white desktop cat with pale apricot ears, a tiny warm brown nose, a
 - `qa/previews/*.gif` - per-state motion previews.
 - `final/validation.json` - spritesheet validation result.
 - `source/pet_request.json` - original pet build request metadata.
-- `install-to-codex.sh` - copies this pet into `~/.codex/pets/sunny-tie-cat`.
+- `install-to-codex.sh` - copies this pet into `~/.codex/pets/white-cat`.
 
 ## Current States
 
@@ -35,6 +35,6 @@ Run this from the pet folder:
 The script installs:
 
 ```text
-~/.codex/pets/sunny-tie-cat/pet.json
-~/.codex/pets/sunny-tie-cat/spritesheet.webp
+~/.codex/pets/white-cat/pet.json
+~/.codex/pets/white-cat/spritesheet.webp
 ```
